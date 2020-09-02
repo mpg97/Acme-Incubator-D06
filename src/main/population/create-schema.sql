@@ -116,15 +116,6 @@
         primary key (`id`)
     ) engine=InnoDB;
 
-    create table `consumer` (
-       `id` integer not null,
-        `version` integer not null,
-        `user_account_id` integer,
-        `company` varchar(255),
-        `sector` varchar(255),
-        primary key (`id`)
-    ) engine=InnoDB;
-
     create table `debate` (
        `id` integer not null,
         `version` integer not null,
@@ -264,15 +255,6 @@
         `creation_date` datetime(6),
         `description` varchar(1024),
         `title` varchar(50),
-        primary key (`id`)
-    ) engine=InnoDB;
-
-    create table `provider` (
-       `id` integer not null,
-        `version` integer not null,
-        `user_account_id` integer,
-        `company` varchar(255),
-        `sector` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
 
@@ -446,11 +428,6 @@
        foreign key (`rookie_id`) 
        references `rookie_target` (`id`);
 
-    alter table `consumer` 
-       add constraint FK_6cyha9f1wpj0dpbxrrjddrqed 
-       foreign key (`user_account_id`) 
-       references `user_account` (`id`);
-
     alter table `discussion_forum` 
        add constraint `FKmcgrpw22g3baap51wq319v1bp` 
        foreign key (`investment_round_id`) 
@@ -490,11 +467,6 @@
        add constraint `FKr2om5f6tefk2fg0fyl53q2kgd` 
        foreign key (`discussion_forum_id`) 
        references `discussion_forum` (`id`);
-
-    alter table `provider` 
-       add constraint FK_b1gwnjqm6ggy9yuiqm0o4rlmd 
-       foreign key (`user_account_id`) 
-       references `user_account` (`id`);
 
     alter table `record` 
        add constraint `FK5m3d06dehg19dco3s011wvwjo` 

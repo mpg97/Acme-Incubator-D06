@@ -83,15 +83,6 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.settings = Settings
 
-# master.menu.provider ########################################################
-
-master.menu.provider = Provider
-master.menu.provider.favourite-link = Favourite link
-
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumer
-master.menu.consumer.favourite-link = Favourite link
 
 # master.menu.authenticated ##########################################################
 

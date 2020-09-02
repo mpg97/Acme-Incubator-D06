@@ -47,10 +47,6 @@
        drop 
        foreign key `FK630cbp6ixepifihtmort1eh00`;
 
-    alter table `consumer` 
-       drop 
-       foreign key FK_6cyha9f1wpj0dpbxrrjddrqed;
-
     alter table `discussion_forum` 
        drop 
        foreign key `FKmcgrpw22g3baap51wq319v1bp`;
@@ -82,10 +78,6 @@
     alter table `message` 
        drop 
        foreign key `FKr2om5f6tefk2fg0fyl53q2kgd`;
-
-    alter table `provider` 
-       drop 
-       foreign key FK_b1gwnjqm6ggy9yuiqm0o4rlmd;
 
     alter table `record` 
        drop 
@@ -127,8 +119,6 @@
 
     drop table if exists `configuration`;
 
-    drop table if exists `consumer`;
-
     drop table if exists `debate`;
 
     drop table if exists `discussion_forum`;
@@ -152,8 +142,6 @@
     drop table if exists `overture`;
 
     drop table if exists `paton_bulletin`;
-
-    drop table if exists `provider`;
 
     drop table if exists `record`;
 

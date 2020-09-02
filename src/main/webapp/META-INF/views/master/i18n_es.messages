@@ -82,16 +82,6 @@ master.menu.administrator.tool.create = Crear una herramienta
 master.menu.administrator.challenge = Desafíos
 master.menu.administrator.challenge.create = Crear un desafío
 
-# master.menu.provider ########################################################
-
-master.menu.provider = Proveedor
-master.menu.provider.favourite-link = Enlace favorito
-
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumidor
-master.menu.consumer.favourite-link = Enlace favorito
-
 # master.menu.investor #######################################################
 
 master.menu.investor = Inversor
