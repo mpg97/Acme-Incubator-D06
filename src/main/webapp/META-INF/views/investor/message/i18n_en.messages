@@ -1,0 +1,26 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+investor.message.form.label.title = Title
+investor.message.form.label.creationMoment = Creation moment
+investor.message.form.label.tags = Tags
+investor.message.form.label.body = Body
+investor.message.form.label.authorName = Author's name
+
+investor.message.placeholder.tag = example 1, example 2, example 3, ...
+
+investor.message.form.label.confirm = ¿Are you sure you want to save this notice?
+investor.message.form.label.error.must-confirm = You must accept the checkbox
+
+investor.message.form.error.is-spam = The content of the form includes too many words of Spam, please check the form
+
+
+investor.message.form.button.return = Return
+investor.message.form.button.create = Create

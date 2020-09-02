@@ -1,0 +1,36 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.inquiry.form.label.title = Título:
+administrator.inquiry.form.label.paragraph = Párrafo:
+administrator.inquiry.form.label.deadline = Fecha fin:
+administrator.inquiry.form.label.creation = Fecha inicio:
+administrator.inquiry.form.label.email = Email:
+administrator.inquiry.form.label.minMoney = Cantidad mínima de precio:
+administrator.inquiry.form.label.maxMoney  = Cantidad máxima de dinero:
+
+administrator.inquiry.form.button.return = Volver 
+administrator.inquiry.form.button.create = Crear
+administrator.inquiry.form.button.update = Actualizar
+administrator.inquiry.form.button.delete = Borrar
+
+administrator.inquiry.money.min = No puede ser menor a 1 EURO
+administrator.inquiry.money.max = No puede ser menor o igual a la cantidad mínima
+administrator.inquiry.currency.minMoney = Solo se aceptan EUROS|€
+administrator.inquiry.currency.maxMoney = Solo se aceptan EUROS|€
+administrator.inquiry.deadline.before = La fecha fin ha de ser como mínimo un día más tarde que hoy
+
+administrator.inquiry.list.label.title = Título
+administrator.inquiry.list.label.paragraph = Párrafo
+administrator.inquiry.list.label.deadline = Fecha fin
+administrator.inquiry.list.label.email = Email
+administrator.inquiry.list.label.minMoney = Cantidad mínima de precio
+administrator.inquiry.list.label.maxMoney  = Cantidad máxima de dinero
+administrator.inquiry.list.label.range  = Rango de dinero

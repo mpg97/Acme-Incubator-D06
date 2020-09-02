@@ -1,0 +1,34 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.notice.form.label.header = Header:
+administrator.notice.form.label.title = Title:
+administrator.notice.form.label.body = Body:
+administrator.notice.form.label.links = Links:
+administrator.notice.form.label.deadline = Deadline:
+administrator.notice.form.label.creation = Creation:
+administrator.notice.label.sure = ¿Are you sure you want to save this notice?
+
+administrator.notice.list.label.header = Header
+administrator.notice.list.label.title = Title
+administrator.notice.list.label.body = Body
+administrator.notice.list.label.links = Links
+administrator.notice.list.label.deadline = Deadline
+administrator.notice.list.label.creation = Creation
+
+administrator.notice.deadline.before = The deadline can´t be before today
+administrator.notice.link.valid = There are some invalid links
+administrator.notice.sure.must-accept = You must accept the checkbox
+administrator.notice.links.text = All links has to been separated by an ;
+
+administrator.notice.form.button.return = Return 
+administrator.notice.form.button.create = Create
+administrator.notice.form.button.update = Update
+administrator.notice.form.button.delete = Delete

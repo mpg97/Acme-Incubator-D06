@@ -1,0 +1,19 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.discussion-forum.form.label.ticker = Ticker
+authenticated.discussion-forum.form.label.title = Título
+authenticated.discussion-forum.form.label.kindRound = Tipo de ronda
+authenticated.discussion-forum.form.label.entrepreneur.startUpName = Nombre de Entrepreneur StartUp 
+authenticated.discussion-forum.form.button.return = Volver
+authenticated.discussion-forum.form.button.messages = Mensajes del debate
+
+authenticated.discussion-forum.list.label.ticker = Ticker
+authenticated.discussion-forum.list.label.title = Título

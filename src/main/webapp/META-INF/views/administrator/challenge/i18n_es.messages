@@ -1,0 +1,45 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.challenge.form.label.title = Título:
+administrator.challenge.form.label.deadline = Fecha fin:
+administrator.challenge.form.label.description = Descripción:
+administrator.challenge.form.label.rookieReward = Recompensa para principiantes:
+administrator.challenge.form.label.averageReward = Recompensa para intermedios:
+administrator.challenge.form.label.expertReward = Recompensa para expertos:
+administrator.challenge.form.label.rookieGoal = Objetivo para principiantes:
+administrator.challenge.form.label.averageGoal = Objetivo para intermedios:
+administrator.challenge.form.label.expertGoal = Objetivo para expertos:
+
+administrator.challenge.form.button.return = Volver
+administrator.challenge.form.button.create = Crear
+administrator.challenge.form.button.update = Actualizar
+administrator.challenge.form.button.delete = Borrar
+
+administrator.challenge.list.label.title = Título
+administrator.challenge.list.label.deadline = Fecha fin
+administrator.challenge.list.label.description = Descripción
+administrator.challenge.list.label.rookieReward = Recompensa para principiantes
+administrator.challenge.list.label.averageReward = Recompensa para intermedios
+administrator.challenge.list.label.expertReward = Recompensa para expertos
+administrator.challenge.list.label.rookieGoal = Objetivo para principiantes
+administrator.challenge.list.label.averageGoal = Objetivo para intermedios
+administrator.challenge.list.label.expertGoal = Objetivo para expertos
+
+administrator.challenge.deadline.time = La fecha límite debe ser un mes después de la fecha actual
+administrator.challenge.currency.money = Solo se aceptan EUROS|€
+administrator.challenge.expert.higherThanRookie = La recompensa para expertos debe ser mayor que la recompensa para principiantes
+administrator.challenge.expert.higherThanAverage = La recompensa para expertos debe ser mayor que la recompensa para intermedios
+administrator.challenge.average.higherThanRookie = La recompensa para intermedios debe ser mayor que la recompensa para principiantes
+administrator.challenge.average.lowerThanExpert = La recompensa para intermedios debe ser menor que la recompensa para expertos
+administrator.challenge.rookie.lowerThanAverage = La recompensa para principiantes debe ser menor que la recompensa para intermedios
+administrator.challenge.rookie.lowerThanExpert = La recompensa para principiantes debe ser menor que la recompensa para expertos
+administrator.challenge.reward.null = La recompensa no puede estar vacia
+administrator.challenge.goal.empty = El objetivo no puede estar vacio

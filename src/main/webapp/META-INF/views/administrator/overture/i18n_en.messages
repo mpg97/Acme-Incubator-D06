@@ -1,0 +1,36 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.overture.form.label.title = Title:
+administrator.overture.form.label.paragraph = Paragraph:
+administrator.overture.form.label.deadline = Deadline:
+administrator.overture.form.label.creation = Creation:
+administrator.overture.form.label.email = Email:
+administrator.overture.form.label.minMoney = Minimum amount of Money:
+administrator.overture.form.label.maxMoney  = Maximum amount of Money:
+
+administrator.overture.form.button.return = Return 
+administrator.overture.form.button.create = Create
+administrator.overture.form.button.update = Update
+administrator.overture.form.button.delete = Delete
+
+administrator.overture.list.label.title = Title
+administrator.overture.list.label.paragraph = Paragraph
+administrator.overture.list.label.deadline = Deadline
+administrator.overture.list.label.email = Email
+administrator.overture.list.label.minMoney = Minimum amount of Money
+administrator.overture.list.label.maxMoney  = Maximum amount of Money
+administrator.overture.list.label.range  = Range of money
+
+administrator.overture.deadline.before = The deadline can't be earlier than today
+administrator.overture.money.min = Can't be less than 1 Euro
+administrator.overture.money.max = Can't be less than the minimum amount of Money
+administrator.overture.currency.maxMoney = We only accept EUR|€ currency
+administrator.overture.currency.minMoney = We only accept EUR|€ currency

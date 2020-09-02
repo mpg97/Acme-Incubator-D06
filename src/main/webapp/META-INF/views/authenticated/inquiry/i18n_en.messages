@@ -1,0 +1,27 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.inquiry.form.label.title = Title:
+authenticated.inquiry.form.label.paragraph = Paragraph:
+authenticated.inquiry.form.label.creation = Creation:
+authenticated.inquiry.form.label.deadline = Deadline:
+authenticated.inquiry.form.label.email = Email:
+authenticated.inquiry.form.label.minMoney = Minimum money:
+authenticated.inquiry.form.label.maxMoney = Maximum Money:
+authenticated.inquiry.form.button.return = Return
+
+authenticated.inquiry.list.label.title = Title
+authenticated.inquiry.list.label.paragraph = Paragraph
+authenticated.inquiry.list.label.creation = Creation
+authenticated.inquiry.list.label.deadline = Deadline
+authenticated.inquiry.list.label.minMoney = Minimum money
+authenticated.inquiry.list.label.maxMoney  = Maximum money
+authenticated.inquiry.list.label.email = Email
+authenticated.inquiry.list.label.range = Range of money

@@ -1,0 +1,53 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.investment-round.form.label.ticker = Ticker
+entrepreneur.investment-round.form.label.creationDate = Creation Date
+entrepreneur.investment-round.form.label.title = Title
+entrepreneur.investment-round.form.label.description = Description
+entrepreneur.investment-round.form.label.amount = Amount
+entrepreneur.investment-round.form.label.moreInfo = More Info
+entrepreneur.investment-round.form.label.kindRound = Kind of Round
+entrepreneur.investment-round.form.label.entrepreneur.startUpName = Entrepreneur StartUp Name
+entrepreneur.investment-round.form.button.return = Return
+
+entrepreneur.investment-round.list.label.ticker = Ticker
+entrepreneur.investment-round.list.label.creationDate = Creation Date
+entrepreneur.investment-round.list.label.title = Title
+entrepreneur.investment-round.list.label.description = Description
+entrepreneur.investment-round.list.label.amount = Amount
+entrepreneur.investment-round.list.label.moreInfo = More Info
+entrepreneur.investment-round.list.label.kindRound = Kind of Round
+entrepreneur.investment-round.list.label.entrepreneur.startUpName = Entrepreneur StartUp Name
+
+entrepreneur.investment-round.currency.amount = We only accept € currency
+entrepreneur.investment-round.finalMode = It's on final mode
+
+entrepreneur.investment-round.error.spam = It's considered spam
+entrepreneur.investment-round.ticker.valid = Ticker is not valid
+entrepreneur.investment-round.amount.valid = Amount must be bigger than the sum of activities: {0}
+entrepreneur.investment-round.finalMode.activity = You cannot convert in final mode without associate activities
+entrepreneur.investment-round.finalMode.amount = You cannot convert in final mode if amount its not equals than the sum of the associate activities
+entrepreneur.message.form.error.is-spam = The content of the form includes too many words of Spam, please check the form
+employer.job.error.finalMode = You cannot delete it because the investment round is on final mode
+employer.job.error.applications = You cannot delete it because some investor have already applicated 
+employer.job.error.work = You have to delete first the work programme asociated to this investment round
+
+entrepreneur.application.form.label.status.seed = Seed
+entrepreneur.application.form.label.status.bridge = Bridge
+entrepreneur.application.form.label.status.seriesa = Series A
+entrepreneur.application.form.label.status.seriesb = Series B
+entrepreneur.application.form.label.status.seriesc = Series C
+entrepreneur.application.form.label.status.angel = Angel
+
+entrepreneur.investment-round.form.button.workProgramme = Create a Work Programme
+entrepreneur.investment-round.form.button.update = Update
+entrepreneur.investment-round.form.button.delete = Delete
+entrepreneur.investment-round.form.button.create = Create

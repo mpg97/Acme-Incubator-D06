@@ -1,0 +1,30 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.investment-round.form.label.ticker = Ticker
+authenticated.investment-round.form.label.creationDate = Fecha de Creación
+authenticated.investment-round.form.label.title = Título
+authenticated.investment-round.form.label.description = Descripción
+authenticated.investment-round.form.label.amount = Cantidad
+authenticated.investment-round.form.label.moreInfo = Más información
+authenticated.investment-round.form.label.kindRound = Tipo de ronda
+authenticated.investment-round.form.label.entrepreneur.startUpName = Nombre de Entrepreneur StartUp 
+authenticated.investment-round.form.button.return = Volver
+
+authenticated.investment-round.list.label.ticker = Ticker
+authenticated.investment-round.list.label.creationDate = Fecha de Creación
+authenticated.investment-round.list.label.title = Título
+authenticated.investment-round.list.label.description = Descripción
+authenticated.investment-round.list.label.amount = Cantidad
+authenticated.investment-round.list.label.moreInfo = Más información
+authenticated.investment-round.list.label.kindRound = Tipo de ronda
+authenticated.investment-round.list.label.entrepreneur.startUpName = Nombre de Entrepreneur StartUp 
+
+authenticated.investment-round.form.button.application = Crear una solicitud para esta ronda

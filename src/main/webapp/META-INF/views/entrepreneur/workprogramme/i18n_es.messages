@@ -1,0 +1,22 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.work-programme.form.label.title = Título:
+entrepreneur.work-programme.form.label.ticker = Ticker:
+
+entrepreneur.work-programme.list.label.title = Title
+entrepreneur.work-programme.list.label.ticker = Ticker
+
+entrepreneur.work-programme.form.button.activity = Crear una actividad
+entrepreneur.work-programme.form.button.create = Crear
+entrepreneur.work-programme.form.button.return = Volver
+entrepreneur.work-programme.form.button.delete = Eliminar 
+
+employer.job.error.activity = Elimine primero las actividades asociadas a ese work programme

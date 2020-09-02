@@ -1,0 +1,53 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.investment-round.form.label.ticker = Ticker
+entrepreneur.investment-round.form.label.creationDate = Fecha de Creación
+entrepreneur.investment-round.form.label.title = Título
+entrepreneur.investment-round.form.label.description = Descripción
+entrepreneur.investment-round.form.label.amount = Cantidad
+entrepreneur.investment-round.form.label.moreInfo = Más información
+entrepreneur.investment-round.form.label.kindRound = Tipo de ronda
+entrepreneur.investment-round.form.label.entrepreneur.startUpName = Nombre de Entrepreneur StartUp 
+entrepreneur.investment-round.form.button.return = Volver
+
+entrepreneur.investment-round.currency.amount = Solo aceptamos euros (€)
+
+entrepreneur.investment-round.list.label.ticker = Ticker
+entrepreneur.investment-round.list.label.creationDate = Fecha de Creación
+entrepreneur.investment-round.list.label.title = Título
+entrepreneur.investment-round.list.label.description = Descripción
+entrepreneur.investment-round.list.label.amount = Cantidad
+entrepreneur.investment-round.list.label.moreInfo = Más información
+entrepreneur.investment-round.list.label.kindRound = Tipo de ronda
+entrepreneur.investment-round.list.label.entrepreneur.startUpName = Nombre de Entrepreneur StartUp 
+
+entrepreneur.investment-round.form.button.update = Actualizar
+entrepreneur.investment-round.form.button.delete = Eliminar
+entrepreneur.investment-round.form.button.create = Crear
+entrepreneur.investment-round.finalMode = Está en modo final
+entrepreneur.investment-round.form.button.workProgramme = Crear un work programme
+
+entrepreneur.investment-round.error.spam = Es considerado spam
+entrepreneur.investment-round.ticker.valid = El ticker no es válido
+entrepreneur.investment-round.amount.valid = La cantidad debe ser mayor a la suma total de las actividades: {0}
+entrepreneur.investment-round.finalMode.activity = No lo puedes convetir en modo final sin ninguna actividad asociada
+entrepreneur.investment-round.finalMode.amount = No lo puedes convetir en modo final si la cantidad no es igual a la suma de cantidades de las actividades asociadas
+entrepreneur.message.form.error.is-spam =  El contenido del formulario incluye demasiadas palabras de Spam, por favor, revise el formulario
+employer.job.error.finalMode = No puede borrar el investment round porque está en modo final
+employer.job.error.applications = No puede borrar el investment round porque algún inversor ya ha aplicado
+employer.job.error.work = Tiene que borrar primero el programa de trabajo asociado a esta ronda de inversión
+
+entrepreneur.application.form.label.status.seed = Seed
+entrepreneur.application.form.label.status.bridge = Bridge
+entrepreneur.application.form.label.status.seriesa = Series A
+entrepreneur.application.form.label.status.seriesb = Series B
+entrepreneur.application.form.label.status.seriesc = Series C
+entrepreneur.application.form.label.status.angel = Angel

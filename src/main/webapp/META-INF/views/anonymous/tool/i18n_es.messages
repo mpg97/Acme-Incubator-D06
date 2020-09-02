@@ -1,0 +1,28 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+anonymous.tool.form.label.title = Título:
+anonymous.tool.form.label.sector = Sector:
+anonymous.tool.form.label.description = Descripción:
+anonymous.tool.form.label.web = Web:
+anonymous.tool.form.label.email = Email:
+anonymous.tool.form.label.openSource = Código abierto
+anonymous.tool.form.label.investorName = Inventor:
+anonymous.tool.form.label.stars = Estrellas: 
+anonymous.tool.form.button.return = Volver
+
+anonymous.tool.list.label.title = Título
+anonymous.tool.list.label.sector = Sector
+anonymous.tool.list.label.description = Descripción
+anonymous.tool.list.label.web = Web
+anonymous.tool.list.label.email = Email
+anonymous.tool.label.openSource = Código abierto
+anonymous.tool.list.label.investorName = Inventor
+anonymous.tool.list.label.stars = Estrellas

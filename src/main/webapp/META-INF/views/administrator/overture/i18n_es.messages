@@ -1,0 +1,36 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.overture.form.label.title = Titulo:
+administrator.overture.form.label.paragraph = Párrafo:
+administrator.overture.form.label.deadline = Fecha fín:
+administrator.overture.form.label.creation = Fecha inicio:
+administrator.overture.form.label.email = Email:
+administrator.overture.form.label.minMoney = Cantidad mínima de precio:
+administrator.overture.form.label.maxMoney  = Cantidad máxima de dinero:
+
+administrator.overture.form.button.return = Volver 
+administrator.overture.form.button.create = Crear
+administrator.overture.form.button.update = Actualizar
+administrator.overture.form.button.delete = Borrar
+
+administrator.overture.money.min = No puede ser menor a 1 EURO
+administrator.overture.money.max = No puede ser menor a la cantidad mínima
+administrator.overture.currency.minMoney = Solo se aceptan EUROS|€
+administrator.overture.currency.maxMoney = Solo se aceptan EUROS|€
+administrator.overture.deadline.before = La fecha fin ha de ser como mínimo un día más tarde que hoy
+
+administrator.overture.list.label.title = Titulo
+administrator.overture.list.label.paragraph = Párrafo
+administrator.overture.list.label.deadline = Fecha fin
+administrator.overture.list.label.email = Email
+administrator.overture.list.label.minMoney = Cantidad mínima de precio
+administrator.overture.list.label.maxMoney  = Cantidad máxima de dinero
+administrator.overture.list.label.range  = Rango de dinero
